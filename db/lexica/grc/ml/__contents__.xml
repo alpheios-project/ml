@@ -1,0 +1,6 @@
+<collection xmlns="http://exist.sourceforge.net/NS/exist" name="/db/lexica/grc/ml" owner="admin" group="dba" mode="755" created="2017-10-03T09:29:35-04:00" version="1">
+    <acl entries="0" version="1"/>
+    <resource type="XMLResource" name="uml.xml" owner="admin" group="dba" mode="644" created="2017-10-03T09:29:35-04:00" modified="2017-10-03T09:29:35-04:00" filename="uml.xml" mimetype="application/xml" namedoctype="TEI.2" publicid="-//TEI P4//DTD Main DTD Driver File//EN" systemid="http://www.tei-c.org/Guidelines/DTD/tei2.dtd">
+        <acl entries="0" version="1"/>
+    </resource>
+</collection>
